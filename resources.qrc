@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>meridian_icon.png</file>
+    </qresource>
+</RCC>
+

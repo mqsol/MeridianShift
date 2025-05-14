@@ -1,0 +1,13 @@
+[general]
+name=MeridianShift
+qgisMinimumVersion=3.0
+description=Reprojects layers to projections centered at 135°E
+version=1.0
+author=MapQuest Solutions LLC
+email=info@mq-sol.jp
+category=Vector
+icon=meridian_icon.png
+homepage=https://github.com/mqsol/MeridianShift
+tracker=https://github.com/mqsol/MeridianShift/issues
+repository=https://github.com/mqsol/MeridianShift.git
+
