@@ -1,0 +1,2 @@
+# MeridianShift
+QGISプラグイン
